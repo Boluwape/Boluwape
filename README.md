@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Boluwape
+- 👀 I’m interested in Business Intelligence || Research || Financial Analytics || Sustainable Fashion || Environmental preservation
+- 🌱 I’m currently upskilling in python and Contributing on open source projects with Outreachy
+- 💞️ I’m looking to collaborate on future projects
+- 📫 you can reach me via Linkedin > https://www.linkedin.com/in/bolu-adesanya or via Email > Adesanya_bolu@yahoo.com
